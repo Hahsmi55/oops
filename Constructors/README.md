@@ -71,3 +71,7 @@ Student Age: 20
 
 Abdullah
 
+## License
+
+This README is provided for educational purposes. Feel free to use and modify it for learning C++ Object-Oriented Programming.
+
