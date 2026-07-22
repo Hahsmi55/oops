@@ -37,11 +37,16 @@ g++ dynamicPolymorphism.cpp/staticPolymorphism -o main
 ```
 
 ## Sample Output
-```
+
+## Dynamic Output
 Animal makes a sound.
 Dog barks: Woof! Woof!
 Cat meows: Meow!
-```
+
+## Static Output
+
+Int addition : 5
+Double addition : 40
 
 *(The output may vary depending on your implementation.)*
 
