@@ -1,0 +1,6 @@
+ROLLNO.1
+NAME : Abdullah
+AGE : 24
+ROLLNO.2
+NAME : Ali
+AGE : 23
